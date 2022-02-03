@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## Welcome to lhfhybxm's Homepage
 
-You can use the [editor on GitHub](https://github.com/lhfhybxm/lhfhybxm.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+請勿關聯lhfhybxm與除本頁聲明的網以外的其他網站、論壇
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+當你試圖關聯其他網時：
 
-### Markdown
+    確認它是否出現在這個主頁上
+  
+    如果是：
+  
+	  應該是我。但我不建議你詢問我在其他網站上，因為可能出現重名的情況
+    
+	否則：
+  
+		請檢查是否資訊導向這個主頁
+    
+		如果是，應該是我。請刷新這個主頁，確認它是否出現在這個主頁上
+    
+		否則，我不承認那個網與lhfhybxm的關係
+    
+如果以上無法確認，請假設只有[這個主頁](https://lhfhybxm.github.io/)是lhfhybxm，其他網站從來沒有，也永遠不會關聯lhfhybxm
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+请勿关联lhfhybxm与除本页声明的网以外的其他网站、论坛
 
-```markdown
-Syntax highlighted code block
+当你试图关联其他网时：
 
-# Header 1
-## Header 2
-### Header 3
+	确认它是否出现在这个主页上
+  
+	如果是：
+  
+		应该是我。但我不建议你询问我在其他网站上，因为可能出现重名的情况
+    
+	否则：
+  
+		请检查是否信息导向这个主页
+    
+		如果是，应该是我。请刷新这个主页，确认它是否出现在这个主页上
+    
+		否则，我不承认那个网与lhfhybxm的关系
+    
+如果以上无法确认，请假设只有[这个主页](https://lhfhybxm.github.io/)是lhfhybxm，其他网站从来没有，也永远不会关联lhfhybxm
 
-- Bulleted
-- List
+If you can't confirm this above, please suppose that only this homepage is lhfhybxm, other websites has never, and will never be associated with lhfhybxm
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Associated Website
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lhfhybxm/lhfhybxm.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+please wait for update...
